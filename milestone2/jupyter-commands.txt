@@ -1,0 +1,9 @@
+Ctrl-Enter: run cell
+Shift-M: merge cell below
+Ctrl-]: indent
+Ctrl-[: dedent
+esc: command mode
+a (in command mode): insert cell above
+b (in command mode): insert cell below
+dd (in command mode): delete current cell
+enter: edit mode
